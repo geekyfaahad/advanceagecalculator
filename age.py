@@ -1,4 +1,4 @@
-l=input("Write your Dob in this format")
+l=input("Write your Dob in this format (dd/mm/yyy): ")
 while True:
     import datetime,os
     from time import sleep
